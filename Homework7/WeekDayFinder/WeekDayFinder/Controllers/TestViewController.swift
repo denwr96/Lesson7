@@ -18,7 +18,7 @@ class TestViewController: UIViewController {
         super.viewDidLoad()
 
         switchOutlet.isOn = false
-        textLabel.text = ""
+        textLabel.text = "Rate your day"
 
         view.backgroundColor = .white
     }
